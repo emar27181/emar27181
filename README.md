@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,p5js,nodejs,npm,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,astro,react,p5js,nodejs,npm,vite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,flask,git,linux,ubuntu,vscode)](https://skillicons.dev)
 <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emar27181&theme=dracula)
