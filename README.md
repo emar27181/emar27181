@@ -5,6 +5,7 @@
 明治大学大学院 理工学研究科 情報科学専攻に所属。  
 研究テーマは「カラーパレットの推薦によるイラスト制作支援」。  
 日々の制作物やコードをGitHubで公開しています。
+詳しくはポートフォリオをご覧ください。
 
 - Lab: [https://int.cs.meiji.ac.jp/](https://int.cs.meiji.ac.jp/)
 - Portfolio: [https://emar27181-resume.netlify.app/](https://emar27181-resume.netlify.app/)
