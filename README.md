@@ -9,6 +9,7 @@
 
 - Lab: [https://int.cs.meiji.ac.jp/](https://int.cs.meiji.ac.jp/)
 - Portfolio: [https://emar27181-resume.netlify.app/](https://emar27181-resume.netlify.app/)
+- Gallery: [https://emar27181-gallery-portfolio.netlify.app/](https://emar27181-gallery-portfolio.netlify.app/)
 - Email: ryunosukeema.job@gmail.com
 
 ---
@@ -48,14 +49,6 @@
   （2024年9月）
 
 ---
-
-## Works
-
-### [p5.js演習ブラウザ](https://emar27181.github.io/)
-- 研究で制作した制作物を展示しています．
-
-### [ポートフォリオ](https://emar27181-resume.netlify.app/)
-- 自身のスキルなどをまとめています．
 
 ## Github Projects (preparing)
 - https://github.com/emar27181/emar27181.github.io
