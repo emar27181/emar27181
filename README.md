@@ -19,33 +19,48 @@ API・Webアプリケーション開発を中心に、
 [Gallery](https://emar27181-gallery-portfolio.netlify.app/) ·
 [Repositories](https://github.com/emar27181?tab=repositories)
 
+<img src="https://komarev.com/ghpvc/?username=emar27181&label=Profile%20views&color=777777&style=flat-square" alt="Profile view counter (not unique visitors)" />
+
 ---
 
 ## <img src="https://api.iconify.design/lucide:briefcase-business.svg?color=%23888888" width="18" /> Works
 
-### <img src="https://api.iconify.design/lucide:map.svg?color=%23888888" width="17" /> [Flex Railway Map](https://github.com/emar27181/flex-rail-map-project)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://flex-railway-map.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://flex-railway-map.netlify.app/" width="100%" alt="Flex Railway Map public website preview" /></a>
+      <br/><strong>Flex Railway Map</strong>
+      <br/><sub>必要な路線だけを柔軟に表示できるインタラクティブな鉄道路線図。</sub>
+      <br/><sub><code>Astro · TypeScript · React</code></sub>
+      <br/><sub><a href="https://flex-railway-map.netlify.app/">Live Demo</a> · <a href="https://github.com/emar27181/flex-rail-map-project">コード</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://memorio3.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://memorio3.netlify.app/" width="100%" alt="Memorio public website preview" /></a>
+      <br/><strong>Memorio</strong>
+      <br/><sub>記憶・経験・情報同士のつながりをノードとして可視化する Second Brain。</sub>
+      <br/><sub><code>Graph Visualization · Web UI</code></sub>
+      <br/><sub><a href="https://memorio3.netlify.app/">Live Demo</a> · <a href="https://github.com/emar27181/memorio">コード</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://music-atlas.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://music-atlas.netlify.app/" width="100%" alt="Music Atlas public website preview" /></a>
+      <br/><strong>Music Atlas</strong>
+      <br/><sub>曖昧な気分や自然言語から音楽特徴量へ変換し、プレイリスト候補を生成するWebアプリ。</sub>
+      <br/><sub><code>React · TypeScript · AWS · Lambda · DynamoDB</code></sub>
+      <br/><sub><a href="https://music-atlas.netlify.app/">Live Demo</a> · <a href="https://github.com/emar27181/music-atras">コード</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/emar27181/web-pattern-lab"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://github.com/emar27181/web-pattern-lab" width="100%" alt="Web Pattern Lab repository page preview" /></a>
+      <br/><strong>Web Pattern Lab</strong>
+      <br/><sub>Web制作で再利用できるUI・レイアウト・インタラクションパターンを蓄積する実験用リポジトリ。</sub>
+      <br/><sub><code>Astro · TypeScript · Vitest · Playwright</code></sub>
+      <br/><sub><a href="https://github.com/emar27181/web-pattern-lab">Repository</a> · <a href="https://github.com/emar27181/web-pattern-lab">コード</a></sub>
+    </td>
+  </tr>
+</table>
 
-必要な路線だけを柔軟に表示できるインタラクティブな鉄道路線図。
-
-`Astro` `TypeScript` `React`
-
-### <img src="https://api.iconify.design/lucide:brain.svg?color=%23888888" width="17" /> [Memorio](https://github.com/emar27181/memorio)
-
-記憶・経験・情報同士のつながりをノードとして可視化する Second Brain。
-
-`Graph Visualization` `Web UI`
-
-### <img src="https://api.iconify.design/lucide:music.svg?color=%23888888" width="17" /> [Music Atlas](https://github.com/emar27181/music-atras)
-
-曖昧な気分や自然言語から音楽特徴量へ変換し、プレイリスト候補を生成するWebアプリ。
-
-`React` `TypeScript` `AWS` `Lambda` `DynamoDB`
-
-### <img src="https://api.iconify.design/lucide:blocks.svg?color=%23888888" width="17" /> [Web Pattern Lab](https://github.com/emar27181/web-pattern-lab)
-
-Web制作で再利用できるUI・レイアウト・インタラクションパターンを蓄積する実験用リポジトリ。
-
-`Astro` `TypeScript` `Vitest` `Playwright`
+<sub>公開ページのプレビュー画像。リンク先で実際の操作ができます。画像は外部キャプチャサービスにより更新されます。</sub>
 
 <sub>
 Other works:
@@ -76,6 +91,8 @@ Backend:
 ## <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%23888888" width="18" /> Research
 
 ### 配色推薦によるイラスト制作支援
+
+<a href="https://color-recommend.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://color-recommend.netlify.app/" width="540" alt="Color Recommendation application preview" /></a>
 
 イラスト制作時の配色選択を支援することを目的に、  
 色相とトーンを段階的に扱うカラーパレット推薦手法を研究しました。
@@ -131,6 +148,14 @@ Backend:
 
 ---
 
+## <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23888888" width="18" /> Activity
+
+<a href="https://github.com/emar27181"><img src="https://ghstats.dev/api/card?username=emar27181&size=compact&hide_title=true&hide_border=true&hide=grade,active_day,avg,trend,streak" width="460" alt="GitHub development activity statistics" /></a>
+
+<sub>Profile views count image requests rather than unique visitors.</sub>
+
+---
+
 ## <img src="https://api.iconify.design/lucide:link.svg?color=%23888888" width="18" /> Links
 
 <img src="https://api.iconify.design/lucide:globe-2.svg?color=%23888888" width="15" />
@@ -169,29 +194,43 @@ My academic research focused on **color palette recommendation for illustration 
 
 ## <img src="https://api.iconify.design/lucide:briefcase-business.svg?color=%23888888" width="18" /> Selected Works
 
-### <img src="https://api.iconify.design/lucide:map.svg?color=%23888888" width="17" /> [Flex Railway Map](https://github.com/emar27181/flex-rail-map-project)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://flex-railway-map.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://flex-railway-map.netlify.app/" width="100%" alt="Flex Railway Map public website preview" /></a>
+      <br/><strong>Flex Railway Map</strong>
+      <br/><sub>An interactive railway map that allows users to flexibly display only the routes they need.</sub>
+      <br/><sub><code>Astro · TypeScript · React</code></sub>
+      <br/><sub><a href="https://flex-railway-map.netlify.app/">Live Demo</a> · <a href="https://github.com/emar27181/flex-rail-map-project">Code</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://memorio3.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://memorio3.netlify.app/" width="100%" alt="Memorio public website preview" /></a>
+      <br/><strong>Memorio</strong>
+      <br/><sub>A Second Brain interface that visualizes relationships between memories, experiences, and information.</sub>
+      <br/><sub><code>Graph Visualization · Web UI</code></sub>
+      <br/><sub><a href="https://memorio3.netlify.app/">Live Demo</a> · <a href="https://github.com/emar27181/memorio">Code</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://music-atlas.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://music-atlas.netlify.app/" width="100%" alt="Music Atlas public website preview" /></a>
+      <br/><strong>Music Atlas</strong>
+      <br/><sub>A music recommendation application that converts natural-language moods into audio features and generates playlist candidates.</sub>
+      <br/><sub><code>React · TypeScript · AWS · Lambda · DynamoDB</code></sub>
+      <br/><sub><a href="https://music-atlas.netlify.app/">Live Demo</a> · <a href="https://github.com/emar27181/music-atras">Code</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/emar27181/web-pattern-lab"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://github.com/emar27181/web-pattern-lab" width="100%" alt="Web Pattern Lab repository page preview" /></a>
+      <br/><strong>Web Pattern Lab</strong>
+      <br/><sub>A collection of reusable UI, layout, and interaction patterns for web development.</sub>
+      <br/><sub><code>Astro · TypeScript · Vitest · Playwright</code></sub>
+      <br/><sub><a href="https://github.com/emar27181/web-pattern-lab">Repository</a> · <a href="https://github.com/emar27181/web-pattern-lab">Code</a></sub>
+    </td>
+  </tr>
+</table>
 
-An interactive railway map that allows users to flexibly display only the routes they need.
+<sub>Website previews are fetched from public URLs. Follow the links to try the live apps.</sub>
 
-`Astro` `TypeScript` `React`
-
-### <img src="https://api.iconify.design/lucide:brain.svg?color=%23888888" width="17" /> [Memorio](https://github.com/emar27181/memorio)
-
-A Second Brain interface that visualizes relationships between memories, experiences, and information.
-
-`Graph Visualization` `Web UI`
-
-### <img src="https://api.iconify.design/lucide:music.svg?color=%23888888" width="17" /> [Music Atlas](https://github.com/emar27181/music-atras)
-
-A music recommendation application that converts natural-language moods into audio features and generates playlist candidates.
-
-`React` `TypeScript` `AWS` `Lambda` `DynamoDB`
-
-### <img src="https://api.iconify.design/lucide:blocks.svg?color=%23888888" width="17" /> [Web Pattern Lab](https://github.com/emar27181/web-pattern-lab)
-
-A collection of reusable UI, layout, and interaction patterns for web development.
-
-`Astro` `TypeScript` `Vitest` `Playwright`
 
 ---
 
@@ -214,6 +253,8 @@ Backend:
 ## <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%23888888" width="18" /> Research
 
 ### Illustration Support through Color Palette Recommendation
+
+<a href="https://color-recommend.netlify.app/"><img src="https://image.thum.io/get/noanimate/width/640/crop/680/maxAge/168/https://color-recommend.netlify.app/" width="540" alt="Color Recommendation application preview" /></a>
 
 My research focused on supporting color selection during illustration production.
 
