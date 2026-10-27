@@ -65,6 +65,21 @@ API · Interactive Web · Visualization
 <a href="https://www.interaction-ipsj.org/proceedings/2024/data/bib/3B-27.html">Interaction2024</a>
 </sub>
 
+<details>
+<summary>More / その他の活動</summary>
+
+<sub>
+<a href="https://github.com/emar27181?tab=repositories">Other repositories</a> ·
+<a href="https://emar27181-gallery-portfolio.netlify.app/">Gallery projects</a> ·
+<a href="https://int.cs.meiji.ac.jp/2025/10/%e8%89%b2%e7%9b%b8%e3%83%bb%e3%83%88%e3%83%bc%e3%83%b3%e3%81%ae%e4%ba%8c%e6%ae%b5%e9%9a%8e%e9%85%8d%e8%89%b2%e6%8e%a8%e8%96%a6%e3%81%ab%e3%82%88%e3%82%8b%e3%82%a4%e3%83%a9%e3%82%b9%e3%83%88%e5%88%b6/">EC2025 Article</a>
+</sub>
+
+<sub>IPSJ Journal, Entertainment Computing special issue — submitted February 2026.
+<a href="https://www.ipsj.or.jp/journal/cfp/26-T.html">Call for Papers</a> ·
+<a href="https://www.youtube.com/watch?v=h5IxvhB8jNE">Related video</a></sub>
+
+</details>
+
 ## <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23888888" width="19" alt="" /> Activity
 
 <img src="https://ghstats.dev/api/card?username=emar27181&size=compact&hide_title=true&hide_border=true&hide=grade,active_day,avg,trend,streak" width="440" alt="GitHub activity statistics, externally generated" />
